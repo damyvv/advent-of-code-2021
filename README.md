@@ -7,7 +7,7 @@
 |[03](https://adventofcode.com/2021/day/3)|Binary Diagnostic|[view](solutions/day03.rb)|⭐ ⭐|
 |[04](https://adventofcode.com/2021/day/4)|Giant Squid|[view](solutions/day04.rb)|⭐ ⭐|
 |[05](https://adventofcode.com/2021/day/5)|Hydrothermal Venture|[view](solutions/day05.rb)|⭐ ⭐|
-|[06](https://adventofcode.com/2021/day/6)||[view](solutions/day06.rb)||
+|[06](https://adventofcode.com/2021/day/6)|Lanternfish|[view](solutions/day06.rb)|⭐ ⭐|
 |[07](https://adventofcode.com/2021/day/7)||[view](solutions/day06.rb)||
 |[08](https://adventofcode.com/2021/day/8)||[view](solutions/day08.rb)||
 |[09](https://adventofcode.com/2021/day/9)||[view](solutions/day09.rb)||
