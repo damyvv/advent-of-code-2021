@@ -9,7 +9,7 @@
 |[05](https://adventofcode.com/2021/day/5)|Hydrothermal Venture|[view](solutions/day05.rb)|⭐ ⭐|
 |[06](https://adventofcode.com/2021/day/6)|Lanternfish|[view](solutions/day06.rb)|⭐ ⭐|
 |[07](https://adventofcode.com/2021/day/7)|The Treachery of Whales|[view](solutions/day07.rb)|⭐ ⭐|
-|[08](https://adventofcode.com/2021/day/8)||[view](solutions/day08.rb)||
+|[08](https://adventofcode.com/2021/day/8)|Seven Segment Search|[view](solutions/day08.rb)|⭐ ⭐|
 |[09](https://adventofcode.com/2021/day/9)||[view](solutions/day09.rb)||
 |[10](https://adventofcode.com/2021/day/10)||[view](solutions/day10.rb)||
 |[11](https://adventofcode.com/2021/day/11)||[view](solutions/day11.rb)||
