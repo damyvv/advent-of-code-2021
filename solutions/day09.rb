@@ -6,21 +6,13 @@ mins = []
 p mins.map {|x,y| h[y][x] }.sum
 
 p mins.map { |x,y|
-    to_check = [[x,y]]
-    checked = []
-    basin = []
+    to_check, checked, basin = [[x,y]], [], []
     while to_check.size > 0
         to_check.each do |xx,yy|
             checked.push [xx,yy]
-            next if xx < 0 || yy < 0 || yy >= input.size || xx >= input[0].size
-            next if input[yy][xx] == 9
+            next if xx < 0 || yy < 0 || yy >= input.size || xx >= input[0].size || input[yy][xx] == 9
             basin.push [xx,yy]
-            to_check += [
-                [xx,yy-1],
-                [xx,yy+1],
-                [xx-1,yy],
-                [xx+1,yy]
-            ]
+            to_check += [ [xx,yy-1], [xx,yy+1], [xx-1,yy], [xx+1,yy] ]
         end
         to_check = to_check.uniq - checked
     end
