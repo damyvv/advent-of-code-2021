@@ -12,7 +12,7 @@
 |[08](https://adventofcode.com/2021/day/8)|Seven Segment Search|[view](solutions/day08.rb)|⭐ ⭐|
 |[09](https://adventofcode.com/2021/day/9)|Smoke Basin|[view](solutions/day09.rb)|⭐ ⭐|
 |[10](https://adventofcode.com/2021/day/10)|Syntax Scoring|[view](solutions/day10.rb)|⭐ ⭐|
-|[11](https://adventofcode.com/2021/day/11)||[view](solutions/day11.rb)||
+|[11](https://adventofcode.com/2021/day/11)|Dumbo Octopus|[view](solutions/day11.rb)|⭐ ⭐|
 |[12](https://adventofcode.com/2021/day/12)||[view](solutions/day12.rb)||
 |[13](https://adventofcode.com/2021/day/13)||[view](solutions/day13.rb)||
 |[14](https://adventofcode.com/2021/day/14)||[view](solutions/day14.rb)||
