@@ -17,7 +17,7 @@
 |[13](https://adventofcode.com/2021/day/13)|Transparent Origami|[view](solutions/day13.rb)|⭐ ⭐|
 |[14](https://adventofcode.com/2021/day/14)|Extended Polymerization|[view](solutions/day14.rb)|⭐ ⭐|
 |[15](https://adventofcode.com/2021/day/15)|Chiton|[view](solutions/day15.rb)|⭐ ⭐|
-|[16](https://adventofcode.com/2021/day/16)||[view](solutions/day16.rb)||
+|[16](https://adventofcode.com/2021/day/16)|Packet Decoder|[view](solutions/day16.rb)|⭐ ⭐|
 |[17](https://adventofcode.com/2021/day/17)||[view](solutions/day17.rb)||
 |[18](https://adventofcode.com/2021/day/18)||[view](solutions/day18.rb)||
 |[19](https://adventofcode.com/2021/day/19)||[view](solutions/day19.rb)||
